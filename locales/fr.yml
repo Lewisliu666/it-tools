@@ -8,7 +8,6 @@ home:
   toggleMenu: 'Menu'
   home: Accueil
   uiLib: 'UI Lib'
-  buyMeACoffee: 'Soutenez IT-Tools'
   follow:
     title: 'Vous aimez it-tools ?'
     p1: 'Soutenez-nous avec une star sur'
